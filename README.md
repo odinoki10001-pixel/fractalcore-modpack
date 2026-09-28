@@ -1,13 +1,13 @@
 ﻿# FractalCore Modpack
 
-Сборка модов для сервера **FractalCore SMP** (Minecraft 26.2).
+Minecraft 26.2 modpack for **FractalCore SMP** server.
 
-## становка
+## Installation
 
-1. Скачай [FractalCore Launcher](https://github.com/Т_/fractalcore-launcher/releases/latest)
-2. апусти .exe, войди в аккаунт
-3. ажми «грать» — сборка установится автоматически
+1. Download [FractalCore Launcher](https://github.com/odinoki10001-pixel/fractalcore-launcher/releases/latest)
+2. Run .exe, sign in
+3. Press Play - modpack installs automatically
 
-## бновления
+## Updates
 
-Скачиваются автоматически при запуске лаунчера.
+Downloaded automatically on launcher start.
